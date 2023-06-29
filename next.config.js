@@ -2,7 +2,7 @@
 const nextConfig = {
     // Modify the configuration options here
     // For example, to change the build output directory:
-    distDir: 'custom-build-folder',
+    distDir: '.next',
   }
   
   module.exports = nextConfig
