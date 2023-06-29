@@ -1,4 +1,9 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
-
-module.exports = nextConfig
+const nextConfig = {
+    // Modify the configuration options here
+    // For example, to change the build output directory:
+    distDir: 'custom-build-folder',
+  }
+  
+  module.exports = nextConfig
+  
